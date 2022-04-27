@@ -1,0 +1,84 @@
+.photo img{
+    height: 50%;
+    width: 80%;
+}
+.navbutton{
+    border-radius: 20px;
+    background:rgb(241, 237, 237) ;
+    color: antiquewhite;
+    border: none;
+    width: 150px;
+    height: 35px;
+    padding: auto;
+}
+.formbutton{
+    border-radius: 20px;
+    background: linear-gradient(-60deg,rgb(123, 174, 212) 25%, rgb(102, 102, 210) 70%);
+    color: antiquewhite;
+    border: none;
+    width: 150px;
+    height: 35px;
+    padding: auto;
+}
+.form{
+    background-color: rgb(241, 237, 237);
+}
+.grey{
+    color: rgb(161, 157, 157);
+}
+.colour{
+    color: rgb(48, 81, 190);
+   
+}
+.colourbg{
+    background-color: rgb(48, 81, 190);
+}
+.v1 {
+    border-left: 3px dotted rgb(180, 174, 174);
+    height: 200px;
+  }
+  .v2 {
+    border-left: 1px dotted rgb(180, 174, 174);
+    height: 50px;
+  }
+  .h :hover{
+      color: rgb(48, 81, 190);
+  }
+  .formbuttonh :hover{
+   
+     color:rgb(161, 157, 157) ;
+     background-color: white;
+}
+  .horizontal{
+    border-top: dotted 1px ;
+    color: rgb(53, 47, 47);
+  }
+  
+.icon img {
+    width: 30px;
+    height: auto;
+}
+.icon {
+    height: 78px;
+    width: 78px;
+    box-shadow: inset 3px 3px 6px #bfc3cf, inset -3px -3px 6px #fff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+}
+.button {
+    border: none;
+    height: 40px;
+    width: 270px;
+    margin: 0;
+    padding: 0%;
+  }
+  .t_input {
+    padding: 13.3px 63px 14px 24px;
+    border-radius: 50px;
+    background: transparent;
+    width: 100%;
+    color: #a8a9ab;
+    box-shadow: inset 3px 3px 6px #bfc3cf, inset -3px -3px 6px #fff;
+    height: 40px;
+}
